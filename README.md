@@ -7,8 +7,8 @@ not accidentally shooting yourself in the foot when doing things concurrently.
 Deus state machina gives you:
 
  - One place to define your state machine transitions
- - No more saving
  - No need for state checking
+ - No more saving your model manually
  - State transitions define which how the model changes
  - No more race conditions!
     (for both database and threading)
