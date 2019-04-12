@@ -13,11 +13,13 @@ Deus state machina gives you:
  - No more race conditions!
     (for both database and threading)
 
-#Getting started
+Getting started
+---------------
 
 ```pip install deus-state-machina```
 
-#Example:
+Example:
+--------
 
 Given that you have code that works like this:
 
