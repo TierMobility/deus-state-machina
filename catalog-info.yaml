@@ -1,0 +1,9 @@
+- apiVersion: backstage.io/v1alpha1
+  kind: Component
+  metadata:
+    name: deus-state-machina
+    annotations:
+      github.com/project-slug: TierMobility/deus-state-machina
+  spec:
+    type: other
+    lifecycle: unknown
